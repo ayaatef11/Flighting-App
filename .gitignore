@@ -20,3 +20,8 @@ rad.json
 *.flf
 #Test results file
 TestResults.xml
+tsconfig.spec.json
+tsconfig.json
+tsconfig.app.json
+package.json
+package-lock.json
